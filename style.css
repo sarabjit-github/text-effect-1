@@ -83,3 +83,23 @@
         transform: scale(.45);
     }
 }
+
+/* Credits  */
+footer{
+    position: absolute;
+    left: 0%;
+    bottom: 0%;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+}
+footer p{
+    line-height: 40px;
+    font-size: 16px;
+    color: aliceblue;
+}
+footer p a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
